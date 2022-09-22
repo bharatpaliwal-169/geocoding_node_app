@@ -1,0 +1,22 @@
+{
+  "name": "geocoding",
+  "version": "1.0.0",
+  "description": "this is a simple geocoding application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "geocoding"
+  ],
+  "author": "Bharat Paliwal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "cucumber": "^6.0.7",
+    "dotenv": "^16.0.2"
+  }
+}
