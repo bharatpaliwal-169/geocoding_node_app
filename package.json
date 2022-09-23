@@ -15,6 +15,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "body-parser": "^1.20.0",
+    "caching-map": "^1.0.2",
     "cors": "^2.8.5",
     "cucumber": "^6.0.7",
     "dotenv": "^16.0.2"
